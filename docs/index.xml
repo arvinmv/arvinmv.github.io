@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 23:25:23 -0400</lastBuildDate><atom:link href="https://arvinvitug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 22:31:10 -0400</lastBuildDate><atom:link href="https://arvinvitug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works on My Machine</title>
+      <link>https://arvinvitug.github.io/posts/works-on-my-machine/</link>
+      <pubDate>Tue, 22 Mar 2022 22:31:10 -0400</pubDate>
+      
+      <guid>https://arvinvitug.github.io/posts/works-on-my-machine/</guid>
+      <description>I have a few days left before the Mrs and I fly out to Guam and once we get back, I start ramping up on my last 3 classes for my cloud computing BS degree. So I guess that leaves a little bit of time to play around and do some stuff without an assignment hanging over my head.
+I have a bunch of dependencies set up on my PC and it&amp;rsquo;s probably going to be a PITA to get everything installed again on the lovely 2015 MBP sitting upstairs or any new laptop/desktop I get in the future.</description>
+    </item>
+    
     <item>
       <title>Initalize</title>
       <link>https://arvinvitug.github.io/posts/initalize/</link>
