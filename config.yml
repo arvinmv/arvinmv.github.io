@@ -113,9 +113,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: resume
-      name: Resume
-      url: arvin-vitug-resume.pdf
+    - identifier: about
+      name: About
+      url: about
       weight: 10
     - identifier: categories
       name: Posts
