@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Arvin Vitug</title>
-    <link>https://arvinvitug.github.io/posts/</link>
+    <link>https://arvinmv.github.io/posts/</link>
     <description>Recent content in Posts on Arvin Vitug</description>
     <image>
-      <url>https://arvinvitug.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://arvinvitug.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://arvinmv.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://arvinmv.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2022 22:31:10 -0400</lastBuildDate><atom:link href="https://arvinvitug.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 22:31:10 -0400</lastBuildDate><atom:link href="https://arvinmv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Works on My Machine</title>
-      <link>https://arvinvitug.github.io/posts/works-on-my-machine/</link>
+      <link>https://arvinmv.github.io/posts/works-on-my-machine/</link>
       <pubDate>Tue, 22 Mar 2022 22:31:10 -0400</pubDate>
       
-      <guid>https://arvinvitug.github.io/posts/works-on-my-machine/</guid>
+      <guid>https://arvinmv.github.io/posts/works-on-my-machine/</guid>
       <description>I have a few days left before the Mrs and I fly out to Guam and once we get back, I start ramping up on my last 3 classes for my cloud computing BS degree. So I guess that leaves a little bit of time to play around and do some stuff without an assignment hanging over my head.
 I have a bunch of dependencies set up on my PC and it&amp;rsquo;s probably going to be a PITA to get everything installed again on the lovely 2015 MBP sitting upstairs or any new laptop/desktop I get in the future.</description>
     </item>
     
     <item>
       <title>Initalize</title>
-      <link>https://arvinvitug.github.io/posts/initalize/</link>
+      <link>https://arvinmv.github.io/posts/initalize/</link>
       <pubDate>Mon, 21 Mar 2022 23:25:23 -0400</pubDate>
       
-      <guid>https://arvinvitug.github.io/posts/initalize/</guid>
+      <guid>https://arvinmv.github.io/posts/initalize/</guid>
       <description>Welcome to the blog. I&amp;rsquo;m going to be using this blog to keep track of my progress and whatnot. Writing used to come a little more natural and now it feels so foreign, so hopefully using this as a platform for unloading the clip in my brain hopefully helps with that. Another benefit to constantly writing is to be able to look back on old posts as a means of keeping myself accountable.</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL: https://arvinvitug.github.io/
+baseURL: https://arvinmv.github.io/
 languageCode: en-us
 title: Arvin Vitug
 theme: "hugo-PaperMod-master"
@@ -78,7 +78,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/arvinvitug/"
     - name: github
-      url: "https://github.com/arvinvitug"
+      url: "https://github.com/arvinmv"
     - name: spotify
       url: "https://open.spotify.com/user/22lftefpchouqqdgnrzsqossi?si=4f914f0c66d744aa"
     
