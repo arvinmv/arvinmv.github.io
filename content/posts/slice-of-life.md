@@ -5,7 +5,7 @@ draft: false
 author: Arvin Vitug
 ---
 
-Does anyone else think it's weird when bios or about me's are written in 3rd person? Well, I do, so we're not going to that here.
+Does anyone else think it's weird when bios or about me's are written in 3rd person? Well, I do, so we're not going to do that here.
 
 My name is Arvin Vitug. Friends from the Navy call me 'V', everyone else typically uses 'Arv' if we'ere cool like that.
 I spent my childhood and adolescence growing up in Guam from the village of Barrigada specifically, sometimes Barrigods (iykyk).
@@ -15,7 +15,7 @@ My hobbies include walking our dog [Appa](https://www.instagram.com/appa.thegold
 I really enjoy music too! Check out my spotify [playlists](https://open.spotify.com/user/22lftefpchouqqdgnrzsqossi?si=4f914f0c66d744aa).
 
 The last 10 years of my life have involved moving a lot. It feels weird hitting year 3 here in the DC area with no plans in sight for being a transplant in another city again. The itch is there though.
-In time it will definitely happen. That's what it's all about: the adventure of it all.
+In time it will definitely happen. That's what it's about: the adventure of it all.
 
 Thanks for reading. I'm interested in making this blog a little bit more about my little slice of life rather than just tech crap since that isn't entirely embededd in my soul.
 So stay chooned for the next update!
