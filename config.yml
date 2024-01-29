@@ -81,6 +81,8 @@ params:
       url: "https://github.com/arvinmv"
     - name: spotify
       url: "https://open.spotify.com/user/22lftefpchouqqdgnrzsqossi?si=4f914f0c66d744aa"
+    - name: letterboxd
+      url: "https://letterboxd.com/mid__sommar/"
     
 
   analytics:
